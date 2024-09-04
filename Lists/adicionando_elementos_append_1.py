@@ -11,3 +11,5 @@ while True:
 
 print(lista) # printing list
 print(len(lista)) # quantity of elements from list
+
+print("Hello WO")
